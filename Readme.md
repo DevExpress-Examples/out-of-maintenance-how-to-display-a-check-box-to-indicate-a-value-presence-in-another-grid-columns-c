@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/EditorStatusViaCustomDraw/Form1.cs) (VB: [Form1.vb](./VB/EditorStatusViaCustomDraw/Form1.vb))
+* [Program.cs](./CS/EditorStatusViaCustomDraw/Program.cs) (VB: [Program.vb](./VB/EditorStatusViaCustomDraw/Program.vb))
+<!-- default file list end -->
 # How to display a check box to indicate a value presence in another grid column's cell
 
 
